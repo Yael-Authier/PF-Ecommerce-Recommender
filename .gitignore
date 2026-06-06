@@ -11,3 +11,7 @@ data/processed/
 
 # Archivos parquet
 *.parquet
+
+# Artefactos de modelos
+models/*.parquet
+models/*.pkl
